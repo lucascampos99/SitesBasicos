@@ -1,0 +1,51 @@
+.center{
+    text-align: center;
+    font-size: 40px;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+#menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+#menu li a:hover{
+    color: rgb(254, 0, 0);
+}
+
+.p-30{
+    padding: 50px;
+}
+
+.br-50 {
+    border-radius: 50%;
+}
+
+.wh-300{
+    width: 300px;
+}
+
+.tm-social{
+    width: 40px;
+    height: 40px;
+}
+
+body{font-size:x-large; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(237, 236, 242) 0%, rgb(255, 41, 41) 35%, rgb(255, 255, 255) 100%);
+
+}
+
+
+
